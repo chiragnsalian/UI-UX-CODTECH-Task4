@@ -26,7 +26,7 @@ The overall focus was to keep interactions natural, simple, and accessible. No c
 
 In conclusion, this project fulfills the core requirement of the task: creating a user interface for a VR application that focuses on intuitive interaction. The mockups and prototypes demonstrate a clear navigation path, spatial awareness, and user-friendly controls. The additional use of Draft XR enhances the delivery by placing the design in an immersive VR context, even though the task only required mockups. By thoughtfully designing every element of the interface and validating it within a VR simulation, this project successfully bridges the gap between visual design and spatial user experience.
 
-*OUTPUT1*: <img width="16144" height="2587" alt="Image" src="https://github.com/user-attachments/assets/115fb32a-2d5b-42a1-a08a-ceaecd882c9c" />
+*OUTPUT*: <img width="16144" height="2587" alt="Image" src="https://github.com/user-attachments/assets/115fb32a-2d5b-42a1-a08a-ceaecd882c9c" />
 
 *LINK*: https://app.draftxr.com/vr/f9sbtf
 
